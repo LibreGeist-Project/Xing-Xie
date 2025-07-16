@@ -1,9 +1,12 @@
 #import "template/style.typ": *
 #show: def_style
 #context {
-//  set page(footer: none)
+  set page(footer: none)
   align(center+horizon)[#scale(400%, [*星屑*])]
+  v(3em)
+  align(center+horizon)[#scale(100%, [未明子/著])]
 }
+#set document(author: "未明子", description: "《星屑》前三章，由LibreGeist Press Project重新排版", title: "星屑")
 #{
   prelims[][南陌扫花尘，北陌存芳土。往返竟何之？异道相安处。
   
@@ -15,13 +18,13 @@
     献给此书的第一位读者
   ]
 }
-//#page(numbering: "i")[
+#page(numbering: "i")[
 #{
   counter(page).update(1)
   include "P.typ"
   pagebreak()
 }
-
+]
 #context [
 //  #set page(header: none)
   #outline()
