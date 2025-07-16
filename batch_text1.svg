@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="68.506004mm"
+   height="33.802044mm"
+   viewBox="0 0 68.506004 33.802044"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch2">
+      <stop
+         style="stop-color:#373737;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="swatch1">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+    <rect
+       x="154.86845"
+       y="266.18015"
+       width="338.77472"
+       height="179.06664"
+       id="rect1" />
+    <linearGradient
+       xlink:href="#swatch2"
+       id="linearGradient1"
+       gradientUnits="userSpaceOnUse"
+       x1="260.98215"
+       y1="351.62726"
+       x2="518.95758"
+       y2="351.62726" />
+    <linearGradient
+       xlink:href="#swatch2"
+       id="linearGradient2"
+       gradientUnits="userSpaceOnUse"
+       x1="260.98215"
+       y1="351.62726"
+       x2="518.95758"
+       y2="351.62726" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-69.780203,-78.26784)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,18.780487,2.1341463)"
+       id="text1"
+       style="font-weight:bold;font-size:136.063px;font-family:'Noto Serif CJK SC';-inkscape-font-specification:'Noto Serif CJK SC Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);opacity:0.981132;fill:url(#linearGradient1);stroke:url(#linearGradient2);stroke-width:0.944882"><tspan
+         x="188.19286"
+         y="402.92301"
+         id="tspan2">星屑</tspan></text>
+  </g>
+</svg>

@@ -1,4 +1,4 @@
-#import "style.typ": *
+#import "template/style.typ": *
 
 #align(center)[== 极简哲学史（一）：前批判哲学]
 
@@ -622,20 +622,21 @@ B（黑格尔阴魂不散）：“等等，我认为我们之间问题不在于�
 ]，而转而期待一种实体性的、整体性的、深沉的去人格化、无我的知识（selflessknowledge）。
 
 
-#wrap-content(figure(image("A-sign-encouraging-students-to-sell-blood-to-fund-their-education.-Twitter-@tjulrich-768x1024.jpg", width: 90%), caption: text(gfsize*0.8)[“NEED BOOKS? NO WORRIES DONATE PLASMA”(来自脚注15的网页)]))[
+#wrap-content(figure(image("A-sign-encouraging-students-to-sell-blood-to-fund-their-education.-Twitter-@tjulrich-768x1024.jpg", width: 95%), caption: text(gfsize*0.8)[“NEED BOOKS? NO WORRIES DONATE PLASMA”(来自脚注15的网页)]))[
   这种整体主义背后，是一种本质主义。因为它诱使人们，去在现象性的自我背后，幻想一个不透明的、复杂的、稠密的、有深度的、且混乱的底层/背景意识黑箱。而“自我”则是这个黑箱创造出来的透明的棱镜。
 
 只要我们能够学习黑格尔、马克思那样去拒斥本质主义，就会发现，真正的幻觉不在于那个“透明的自我”，而在于幻想这个透明的自我背后，有某种超出幻觉的本质。
 
 真正的幻觉，在于关于幻觉的幻觉，在于设想自我背后的底层意识结构——这其中就预设了一个非我的观察者，一个中立客观的神经生理学家视角（由衰败的德国大学中的二流哲学家视角所伪装扮演的）。
-]
+
 我们批判这条死狗的意义不大，但问题在于不少美国硅谷的独角兽新贵，对于这种无我论的整体主义意识理论所爆发的热情：另一条追求永生的道路向他们敞开了。
+]
 
 《每月评论》（Monthly Review） #footnote[
 以下的讨论和翻译，均来自激流网。见
-#link https://zhuanlan.zhihu.com/p/103059610
+#link("https://zhuanlan.zhihu.com/p/103059610", [https://zhuanlan.zhihu.com/p/103059610])
 ]的一篇名为“收割美国穷人血液——资本主义的最后阶段”#footnote[
-#link https://mronline.org/2019/12/06/harvesting-the-blood-of-americas-poor-the-latest-stage-of-capitalism/
+#link("https://mronline.org/2019/12/06/harvesting-the-blood-of-americas-poor-the-latest-stage-of-capitalism/", [https://mronline.org/2019/12/06/harvesting-the-blood-of-americas-poor-the-latest-stage-of-capitalism/])
 ]讲述了美国不少墨西哥穷人（合法或非法）移民的谋生方式：向寻求永生的上层共享自己血浆。
 
 每人每次捐赠血浆的交易价格为600美元，但是穷人们只能获得20到40美元不等。美墨边境沿线的43个鲜血中心，为格里福斯（Grifols）和CSL这样的垄断血浆供应集团源源不断地吸取行尸走肉一般的穷人身上仅存的价值。

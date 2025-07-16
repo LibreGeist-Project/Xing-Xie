@@ -1,7 +1,7 @@
-#import "style.typ": *
+#import "template/style.typ": *
 #show: def_style
 #context {
-  set page(footer: none)
+//  set page(footer: none)
   align(center+horizon)[#scale(400%, [*星屑*])]
 }
 #{
@@ -15,13 +15,15 @@
     献给此书的第一位读者
   ]
 }
-#page(numbering: "i")[
-  #counter(page).update(1)
-  #include "P.typ"
-]
+//#page(numbering: "i")[
+#{
+  counter(page).update(1)
+  include "P.typ"
+  pagebreak()
+}
 
 #context [
-  #set page(header: none)
+//  #set page(header: none)
   #outline()
 ]
 

@@ -4,14 +4,13 @@
 #import "@preview/shadowed:0.2.0": shadowed
 #import "@preview/wrap-it:0.1.1": wrap-content
 
-
 #let gfsize = 20mm;
 #let isNormalPage = true;
 #let bak_font = "WenYuan Serif SC";
 
 #let def_style(content) = {
-  set page(width: 890mm, height: 1240mm) if (isNormalPage)
-  set page(numbering: "1")
+//  set page(width: 890mm, height: 1240mm) if (isNormalPage)
+//  set page(numbering: "1")
   set text(
     font: (
       (name: "New Computer Modern", covers: "latin-in-cjk"), // English Font
@@ -66,7 +65,7 @@
 }
 
 #let prelims(head, content) = {
-  set page(footer: none)
+//  set page(footer: none)
   set text(gfsize + 5mm)
   set align(center + horizon)
   v(-4em)
